@@ -1,4 +1,4 @@
-hi im @hvndead aka haivi <br>
+**hi** i'm @hvndead aka haivi <br>
 i'm a business informatics student, still learning some software engineering 🧸 <br>
 happy to get around and learn new stuff ✨ <br>
 <!---
